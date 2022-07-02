@@ -1,0 +1,6 @@
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\ProyectoFinalPX\obj\Debug\net5.0\ExamenFinalPX.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\ProyectoFinalPX\obj\Debug\net5.0\ExamenFinalPX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\ProyectoFinalPX\obj\Debug\net5.0\ExamenFinalPX.AssemblyInfoInputs.cache
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\ProyectoFinalPX\obj\Debug\net5.0\ExamenFinalPX.AssemblyInfo.cs
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\ProyectoFinalPX\obj\Debug\net5.0\ExamenFinalPX.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\ProyectoFinalPX\obj\Debug\net5.0\ExamenFinalPX.MvcApplicationPartsAssemblyInfo.cache

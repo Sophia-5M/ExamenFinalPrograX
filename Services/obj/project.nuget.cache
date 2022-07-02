@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjnFQUihAah+mAER7RNnGMwC6KtbGs3ybHmBGCDM4ypB9ftu8KU8Nm7dW96nr9o1h6pGYp5hVxeRyd9cPeSPYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sophia\\Desktop\\Clases\\2022\\Trimestre XVIII\\Progra X\\Examen Final\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sophia\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Sophia\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

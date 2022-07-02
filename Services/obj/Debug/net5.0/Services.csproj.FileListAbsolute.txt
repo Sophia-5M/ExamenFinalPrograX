@@ -1,0 +1,5 @@
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\Sophia\Desktop\Clases\2022\Trimestre XVIII\Progra X\Examen Final\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
