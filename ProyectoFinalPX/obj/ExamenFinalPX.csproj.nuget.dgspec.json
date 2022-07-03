@@ -185,6 +185,14 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Exceptionless": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Exceptionless.WebApi": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

@@ -14,6 +14,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
+using Exceptionless;
 
 namespace ProyectoFinalPX
 {
@@ -47,6 +48,11 @@ namespace ProyectoFinalPX
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProyectoFinalPX", Version = "v1" });
             });
+        }
+
+        public void ConfigureException(IServiceCollection except)
+        {
+            except.AddSingleton<HomeController>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
